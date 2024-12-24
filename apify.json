@@ -1,0 +1,8 @@
+{
+	"name": "linkedin-companies",
+	"version": "0.0",
+	"buildTag": "latest",
+	"env": {
+		"MY_SECRET_PASSWORD": "@mySecretPassword"
+	}
+}
